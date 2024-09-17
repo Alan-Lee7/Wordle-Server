@@ -9,4 +9,4 @@ This code is used to simulate a Wordle Server. By following the steps, you would
 4) Open another terminal and connect to the server using: ./wordle-client.out
 5) Finally, start guessing the hidden Wordle word
 
-*Note* The port number used to start the server must match the port number in wordle-client.c
+*Note*: The port number used to start the server must match the port number in wordle-client.c
